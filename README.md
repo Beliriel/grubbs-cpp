@@ -35,7 +35,7 @@ you have to allocate an empty vector and provide a pointer to it. Then you can r
 
 Valid Significance levels are defined in the header. Use the macros as providing any other significance level will crash the code, since the critical values are hardcoded.
 
-`// TwoSided Significance Levels`
+`// TwoSided Significance Levels`  
 `#define TA_0_200 0.2`  
 `#define TA_0_100 0.1`  
 `#define TA_0_050 0.05`  
